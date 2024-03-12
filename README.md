@@ -12,6 +12,7 @@ cloudflare R2是一个文件储存系统，配合Cloudflare Workers可以实现�
 
 ### 搭建教程
 
+  
 
 1. fork该仓库
 2. 前往Cloudflare R2新建一个R2储存桶，并前往储存桶设置，允许公开访问，复制**公共存储桶 URL**
